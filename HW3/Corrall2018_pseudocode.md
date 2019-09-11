@@ -12,21 +12,27 @@ Before performing the test though, the distributions must be scaled by the avera
 # pseudocode:
 
 ```
-For all Mk values of M{
-	# remove gaps below minimum gap threshold
-	x_Mk =  gaps > M_k
-	xreduced_Mk = x_Mk where x_Mk > threshold # this can be achieved by broadcasting in python
-	For i in [1,2]: # do it twice
-	}
-# Rescale the time gaps distribution by the mean value of the time gaps.
-Rx = 1 / mean(xreduced_Mk)
-xreduced_Mk  = xreduced_Mk * Rx
-
-
-For all Mk values of M {
-   For all Ml values of M greater than Mk{
-	Perform the KS test on (Mkm, Ml)
-	}
-   }
+For threshold 0.01 and 0.001:
+  	For all Mk values of M in Corral2018:
+		{
+		# remove gaps below minimum gap threshold
+		x_Mk =  gaps where M > M_k
+		For i in [1,2]: # do it twice
+			{
+			# Rescale the time gaps distribution by the mean value of the time gaps.
+			Rk = 1 / mean of x_Mk
+			X_Mk = x_Mk * Rk where x_Mk*Rk  > threshold # can be achieved broadcasting in python
+			}
+		# these two lines of code are not necessary cause Rk~1
+		Rk = 1 / mean of x_Mk
+		x_Mk = x_Mk * Rk
+		
+	For all Mk values of M in Corral2018:
+		{
+   		For all Ml values of M in Corral2018 greater than Mk
+			{
+			Perform the KS test on (Mk, Ml)
+			}
+   		}
 
 ```
