@@ -16,7 +16,7 @@ if dspsdir is None:
 	print ("make sure the env variable DSPS2019 is set up")
 	sys.exit()
 
-dspsdir = dspsdir + "STRUDREPOS"
+dspsdir = dspsdir + "STUDREPOS"
 
 ### moving to work into dspsdir
 os.chdir(dspsdir)
