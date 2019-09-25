@@ -1,7 +1,7 @@
 # HW5
 
 # READING: 
-
+Read about [rentologic](https://rentlogic.com/faq): a perfect example of data science applied to urban problems. 
 
 Work in groups of 3 to 5 people. 
 
