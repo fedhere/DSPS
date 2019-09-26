@@ -14,5 +14,6 @@ Finish the lab started in class.  Review the completed tasks and complete the la
 
 # 2. reidentifying urban information
 
-The goal is to identify individual building owners that may violate energy regulations by merging urban datasets. Follow instructions in https://github.com/fedhere/DSPS/blob/master/HW5/BuildingsEnergyOwners.ipynb
+The goal is to identify individual building owners that may violate energy regulations by merging urban datasets. Follow instructions in https://github.com/fedhere/DSPS/blob/master/HW5/BuildingsEnergyOwners.ipynb.
+Use the notebook https://github.com/fedhere/DSPS/blob/master/HW5/CBdataWrangling.ipynb to see examples of the pandas functionalities that you will need to complete the homework. 
 
