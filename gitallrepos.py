@@ -14,7 +14,7 @@ if len(sys.argv) == 1:
 else:
         filename = sys.argv[1]
 ### read in file
-tmp = pd.read_csv(filename)[['GitHub DSPS2019 Repo', 'Student']]
+tmp = pd.read_csv(filename)[['GitHub DSPS Repo', 'Student']]
 tmp.dropna(inplace=True)
 #tmp['GitHub Link'] = tmp['GitHub handle'].apply(lambda x:'https://github.com/' + x)
 
