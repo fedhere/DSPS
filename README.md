@@ -22,7 +22,7 @@ The directory HW<hw_number> must have a README.md which who was in the group tha
 **Plots**: Each assignment turned in as a notebook must have rendered plots with axis labels and captions. Each missing/non rendered plot, or plot without axes labels or caption will not be counted. The caption should state *What* is beint plotted (describe the plot) and *Why* it is being plotted (describe the conclusions that the reader should draw from the plot).
 
 
-**Model and statistical analysis results** must be discussed. It is not sufficient to run a test and print the test output without commenting on the meaning of the test and results. The student should discuss why a test is chose, what the result is, what are the weaknesses of the test. 
+**Model and statistical analysis results must be discussed**. It is not sufficient to run a test and print the test output without commenting on the meaning of the test and results. The student should discuss why a test is chose, what the result is, what are the weaknesses of the test. 
 
 **The notebook must be executables**: the TA must download the notebook and run it cell by cell without errors on google colab. If data are used they must be available to the TA, ideally by loading them online, so that the TA does not need to download large datasets (more details on this will be given in each homework set). The student should use conventional libraries, the use of any unusual library should be justified, and indicated explicitly in the readme, along with links to obtain the library if not available by conda, pip, port, or brew install. Turning in a notebook that cannot be executed will cost 10% of the grade.
 
