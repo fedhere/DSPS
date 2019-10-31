@@ -34,6 +34,8 @@ EC and 667:
    -Generate an output file as required by this script for your best model
    
    -Report on the result
+   
+See the [higgsboson.ipynb](higgsboson.ipynb) sckeleton notebook
 
 
 
@@ -41,8 +43,8 @@ EC and 667:
 You will recieve an email with 2 names and github handles of classmates. Review their plots according to the things we discussed last lecture. You can discuss your review with others but each of you should submit a review for each of the plots
 
 There will be detailed instructions in the email on how to review, what structure the review should have, what to focus on, etc. Please comply to the instructions. Upload the review on your github DSPS HW9 repo AND ALSO in your classmate's HW8 repo: 
-- Fork your classmate's repo.
-- Add your comments on their HW8 readme in your fork of the repo (you can do this on the web browser if you wish)
+- Fork your classmate's DSPS repo.
+- Add your comments on their *HW8 readme* in *your fork of their repo* (you can do this on the web browser if you wish)
 - Commit the modified readme to your own fork
 - Submit a pull request 
 
@@ -51,5 +53,8 @@ Make at least 3 recommandations for improvements and note at least one good feat
 
 Each review will be reviewed and graded *by me*. (Please take this homework seriously: one sentence generic reviews will be graded 0)
 
-Also note: You will lose 10% of the points if you do not *accept the pull requests from your classmates by midnight on Wednesday!*
+You willl lose 10% of the points if you did not submit a pull request. 
+You will lose 10% of the points if you do not *accept the pull requests from your classmates by midnight on Wednesday!*
+
+As soon as you receive the names check that your classmate has delivecred a visualization in their HW9! if they did not you will not be able to do the homework. This is your responsibility. 
 
