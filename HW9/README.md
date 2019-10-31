@@ -42,6 +42,9 @@ See the [higgsbosonSearch.ipynb](higgsbosonSearch.ipynb) sckeleton notebook
 
 
 ## HW 2
+
+Work on your own.
+
 You will recieve an email with 2 names and github handles of classmates. Review their plots according to the things we discussed last lecture. You can discuss your review with others but each of you should submit a review for each of the plots
 
 There will be detailed instructions in the email on how to review, what structure the review should have, what to focus on, etc. Please comply to the instructions. Upload the review on your github DSPS HW9 repo AND ALSO in your classmate's HW8 repo: 
