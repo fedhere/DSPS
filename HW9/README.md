@@ -50,6 +50,7 @@ There will be detailed instructions in the email on how to review, what structur
 - Add your comments onin this file in *your fork of their repo* (you can do this on the web browser if you wish)
 - Commit the new file to your own fork
 - Submit a pull request 
+- Add a link to your fork (of each of the 2 repos) in your HW9 readme file
 
 Please note (and pay attention to the numbers): I will grade based on content on the readme in *your fork of your classmate's repo in the HW8 readme*. Add a link to that file in your own *HW9 repo*. 
 Make at least 3 recommandations for improvements and note at least one good feature of the visualization. 
