@@ -25,6 +25,8 @@ For each model calculate and discuss the training and test score results.
 
 7 For the Random Forest classifier, explore the parameter space with the sklearn module sklearn.model_selection.RandomizedSearchCV using only the 4 best features as identified in the plot in step 3.
 
+** this part takes some non trivial computational time! for me it took. If you start at the last minute you will not be able to deliver this part of the homework **
+
 8 Generate an ROC curve plot and discuss it
 
 EC and 667: 
