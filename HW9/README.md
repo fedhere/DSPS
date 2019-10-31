@@ -37,7 +37,7 @@ EC and 667:
    
    -Report on the result
    
-See the [higgsboson.ipynb](higgsboson.ipynb) sckeleton notebook
+See the [higgsbosonSearch.ipynb](higgsbosonSearch.ipynb) sckeleton notebook
 
 
 
