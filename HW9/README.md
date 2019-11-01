@@ -49,7 +49,7 @@ You will receive an email with 2 names and github handles of classmates. Review 
 
 There will be detailed instructions in the email on how to review, what structure the review should have, what to focus on, etc. Please comply to the instructions. Upload the review on your github DSPS HW9 repo AND ALSO in your classmate's HW8 repo: 
 - Fork your classmate's DSPS repo.
-- Create a VisReview_<\firstLastname\>.md markdown file (it is important you do include your name or there will be conflicts with the other reviewer!)
+- Create a VisReview_\<firstLastname\>.md markdown file (it is important you do include your name or there will be conflicts with the other reviewer!)
 - Add your comments on this file in *your fork of their repo* (you can do this on the web browser if you wish)
 - Commit the new file to your own fork
 - Submit a pull request 
