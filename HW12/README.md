@@ -8,7 +8,7 @@
 
 # Assignment 1:
 
-Finish the [Tensorflow-Keras lab](https://github.com/fedhere/DSPS/blob/master/lab12/lab12_tensorflow.ipynb)
+Finish the [Keras-Tensorflow lab](HW12/KerasTensorflow.ipynb)
 
 Note that I added a task (task 10):
 
@@ -34,12 +34,11 @@ task 9: find the first wrong prediction in the test set
 task 10: create a more complex model by adding 3 fully connected layers (you choose the size). Test the accuracy of prediction and discuss if the model is overfitting
 
 
-Finish the [Tensorflow-Keras lab](https://github.com/fedhere/DSPS/blob/master/lab12/lab12_tensorflow.ipynb)
 
 
 # Assignment 2:
 
-Finish the deepdream lab
+Finish the [deepdream lab](HW12/DSPS2019_deepdream.ipynb)
 
 Follow the lab to load the modules and the model. 
 
