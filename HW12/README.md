@@ -59,4 +59,4 @@ Task 6: Repeat step 4, DeepDream, with your image. Save the layer you like. Uplo
 Task 7: Answer: Are there "animals" in your image? why? (there should be)
 
 
-[!img](https://github.com/fedhere/DSPS/blob/master/HW12/Screen%20Shot%202019-11-21%20at%209.50.48%20AM.png)
+![img](https://github.com/fedhere/DSPS/blob/master/HW12/Screen%20Shot%202019-11-21%20at%209.50.48%20AM.png)
