@@ -43,20 +43,21 @@ Finish the deepdream lab
 
 Follow the lab to load the modules and the model. 
 
-Task 1: Create a random noise "image": an array of 300x300 pixels and 3 color channels (RGB). Fill it in with random noise making sure that the distributions are contained between 0 and 1 (so that imshow will display it correctly). This can be achieved by generating random uniform noise.
+Task 1: Create a random noise "image": an array of 300x300 pixels and 3 color channels (RGB). Fill it in with random noise but make sure the values are Unsigned integer 8bit type (np.unit8) and contained between 0 and 255. This is how a jpg image would be encoded in python and both pylab and this base code require this encoding for the image.  This can be achieved by generating random uniform noise (between 0 and 1) and convert it to 0-255 by multiplication, then convert the data type.
 
 Task 2: start a deep dream on the random noise image: Adjust the sliders to change the strength of the deep dream, and how many scales it is applied over. until you obtain a "phsychadelic" result that you like
 
-Task 3:  Qalitatively describe, based on your reading, why the layers show different features and what it the "kind" of features extracted in the earler layers vs the later ones.
+Task 3 pull each layer:  look at the bottom diagram that shows the architecture of the layer. Plot each relevant layer, the layers that start with "mixed"  
 
+Task 4: Qalitatively describe, based on your reading, why the layers show different features and what it the "kind" of features extracted in the earler layers vs the later ones.
 
-Task 5 shrink it to 300 pixels along the x axis by subsampling
+Task 5: Load your chosen image
 
-Task 4: Load your chosen image 
+Task 6: shrink it to 300 pixels along the x axis by subsampling
 
-Task 6: Repeat step 4, DeepDream, with your image. Save the layer you like. Upload tha image to the readme file of your DSPS repo
+Task 7: Repeat step 4, DeepDream, with your image. Save the layer you like. Upload tha original and modified image to the readme file of your DSPS repo
 
-Task 7: Answer: Are there "animals" in your image? why? (there should be)
+Task 8: Answer: Are there "animals" in your image? why? (there should be)Task 4: Load your chosen image 
 
 
 ![img](https://github.com/fedhere/DSPS/blob/master/HW12/original.png)
