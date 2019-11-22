@@ -8,7 +8,7 @@
 
 # Assignment 1:
 
-Finish the [Keras-Tensorflow lab](HW12/KerasTensorflow.ipynb)
+Finish the [Keras-Tensorflow lab](https://github.com/fedhere/DSPS/blob/master/HW12/KerasTensorflow.ipynb)
 
 Note that I added a task (task 10):
 
@@ -38,7 +38,7 @@ task 10: create a more complex model by adding 3 fully connected layers (you cho
 
 # Assignment 2:
 
-Finish the [deepdream lab](HW12/DSPS2019_deepdream.ipynb)
+Finish the [deepdream lab](https://github.com/fedhere/DSPS/blob/master/HW12/DSPS2019_deepdream.ipynb)
 
 Follow the lab to load the modules and the model. 
 
