@@ -1,4 +1,4 @@
-# HW 13
+# HW 13 (deadline friday midnight)
 
 finish lab13 gradientDescentDemo.ipynb
 
