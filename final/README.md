@@ -16,3 +16,5 @@
 
 8. Remember **figure captions**, **axis labels**, **stating significant thresholds before the analysis is performed**, **comment on strengths and weaknesses of the analysis**
 
+Answer a few questions on this google form to reveal the link to the instructions:
+
