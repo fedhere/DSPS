@@ -1,5 +1,4 @@
 # RULES: DSPS 2019 final
-# RULES: DSPS 2019 final
 
 1.  **DO NOT UPLOAD THE FINAL ON GITHUB!** upload to this assignment by uploading a jupyter notebook to the Canvas final assignment. If you create the notebook on colab make sure you are able to download the notebook in time (especially if you had issues with this for the midterm) and uploading it to this assignment. You are allowed multiple submissions so feel free to upload partial solutions throughout (to be sure you have something uploaded by the deadline!) but it is your responsibility to make sure the versions are clearly labelled so that I know which one I should grade.
 
