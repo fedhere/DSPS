@@ -4,6 +4,7 @@ figure.edgecolor : F1F1F1
 savefig.facecolor : F1F1F1    
 savefig.edgecolor : F1F1F1    
 axes.labelcolor : .15
+axes.labelsize : large 
 xtick.direction : in
 ytick.direction : in
 xtick.color : .15
