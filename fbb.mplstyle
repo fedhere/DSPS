@@ -4,7 +4,6 @@ figure.edgecolor : F1F1F1
 savefig.facecolor : F1F1F1    
 savefig.edgecolor : F1F1F1    
 axes.labelcolor : .15
-axes.labelsize : large 
 xtick.direction : in
 ytick.direction : in
 xtick.color : .15
@@ -23,4 +22,5 @@ image.cmap : viridis
 xtick.top : True
 ytick.right : True
 axes.grid : False
+axes.labelsize: 18.0
 font.sans-serif : ["Arial", "DejaVu Sans", "Liberation Sans", "Bitstream Vera Sans", "sans-serif"]
