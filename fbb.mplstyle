@@ -22,5 +22,4 @@ image.cmap : viridis
 xtick.top : True
 ytick.right : True
 axes.grid : False
-axes.labelsize: 18.0
 font.sans-serif : ["Arial", "DejaVu Sans", "Liberation Sans", "Bitstream Vera Sans", "sans-serif"]
