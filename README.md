@@ -6,6 +6,8 @@ Welcome to Data Science for Physical Scientists, a class developed and taught by
 
 Please review the [Syllabus](http://bit.ly/dspssyllabus)
 
+slides are here [https://slides.com/federicabianco/decks/dsps](https://slides.com/federicabianco/decks/dsps)
+
 
 **Course Description** This course will teach you the basis of data driven inference in the physical sciences.  You will learn a examples of machine learning methods applied to current problems in Phsyics and the Natural Sciences. You will acquire basic computational skills, knowledge of statistical analysis, error analysis, good practises for handling, processing, and analyzing data and (including big-data) programmatically, and communication and visualization skills.  Some of the simpler algorithms will be explored in detail and implemented from scratch, others will be implemented through the use of dedicated python libraries.
 
